@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "My Sidebar Name"
+  name             : "Valentyn Stadnytskyi, Ph.D."
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Phonetic Spelling of Name: Va-len-TEEN Stad-NI-ts-kiy"
   location         : "Maryland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
