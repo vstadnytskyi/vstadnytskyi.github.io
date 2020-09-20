@@ -11,4 +11,4 @@ Modern scientific approach heavily rely on peer-reviewing of each other work. Th
 
 I have just completed mine. Strongly recommend spending few hours so you can learn more about the review process and the the ACS Reviewer Lab badge.
 
-[Download my certificate here](http://academicpages.github.io/files/2020.09.20-ACS-Reviewer-Lab-certificate.pdf)
+[Download my certificate here](http://vstadnytskyi.github.io/files/2020.09.20-ACS-Reviewer-Lab-certificate.pdf)
