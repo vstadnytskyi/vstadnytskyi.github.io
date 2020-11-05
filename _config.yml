@@ -84,11 +84,11 @@ author:
   avatar           : "profile_2020_09.png"
   bio              : "Phonetic Spelling of Name: Va-len-TEEN Stad-NI-ts-kiy"
   location         : "Maryland"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "National Institutes of Health"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Valentyn+Stadnytskyi"
   googlescholar    : "https://scholar.google.com/citations?user=57zICCEAAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Valentyn_Stadnytskyi" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : ##"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/vstadnytskyi/"
   orcid            : "https://orcid.org/0000-0002-7202-6846"
   pinterest        :
   soundcloud       :
