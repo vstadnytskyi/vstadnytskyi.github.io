@@ -3,7 +3,7 @@ title: "Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scatte
 collection: publications
 permalink: /publication/2020-04-15-NEJM-COVID
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-03-12
+date: 2020-04-15
 venue: 'New England Journal of Medicine'
 paperurl: 'https://www.nejm.org/doi/full/10.1056/nejmc2007800'
 citation: 'Anfinrud P, Stadnytskyi V, Bax CE, Bax A. Visualizing speech-generated oral fluid droplets with laser light scattering. N Engl J Med 2020;382:2061-2062'
