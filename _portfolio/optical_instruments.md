@@ -1,6 +1,6 @@
 ---
 title: "Optical Instruments"
-excerpt: "Lead Developer of several optical instruments #<br/><img src='/images/110x110.png'>"
+excerpt: "Lead developer of several optical instruments <br/><img src='/images/110x110.png'>"
 collection: portfolio
 ---
 
