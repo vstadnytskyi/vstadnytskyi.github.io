@@ -1,6 +1,6 @@
 ---
 title: "Software Development"
-excerpt: "Participation in development of several Python packages  #<br/><img src='/images/500x300.png'>"
+excerpt: "Participation in development of several Python packages  #<br/><img src='/images/110x110.png'>"
 collection: portfolio
 ---
 
