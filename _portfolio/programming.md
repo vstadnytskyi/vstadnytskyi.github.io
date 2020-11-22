@@ -1,5 +1,5 @@
 ---
-title: "Programming"
+title: "Software Development"
 excerpt: "Participation in development of several Python packages  #<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
