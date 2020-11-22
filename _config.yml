@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Valentyn Stadnytskyi / Academic Profile" #"Your Name / Site Title"
+title                    : "Valentyn Stadnytskyi PhD / Portfolio" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Valentyn Stadnytskyi"
 description              : &description "personal description"
