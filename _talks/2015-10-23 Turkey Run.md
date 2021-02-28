@@ -9,3 +9,5 @@ location: "Marshal, Indiana"
 ---
 Valentyn Stadnytskyi, Gregory Orf, Robert Blankenship, Sergei Savikhin
 41th Annual Midwest/Southeast Photosynthesis Meeting, Marshal, IN, October 23-25, 2015
+
+At this talk, I have reported first time-resolved circular dichroism measurements of the Fenna-Matthews-Olson(FMO) complex.
